@@ -15,9 +15,9 @@ An API service powered by Django offers a list of banks together with informatio
 
 ## Installation
 
-1. Make a clone of the repository using the following commands: ``{bash git clone https://github.com/yourusername/bank-api.git cd bank-api {{{
+1. Make a clone of the repository 
 
-2. Establish a virtual environment and activate it using the following commands: ```bash python -m venv venv source venv/bin/activate # On Windows, use `venv\Scripts\activate} {}
+2. Establish a virtual environment 
 
 3. Install the necessary packages using the following command: pip install -r requirements.txt
 
